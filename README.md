@@ -15,7 +15,6 @@ I am a results-driven professional bridging the gap between design, code, and Ag
 
 ### 🛠 My Professional Tech Stack:
 
-**Management & Strategy:**
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-blue?style=flat-square&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat-square&logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-Documentation-0052CC?style=flat-square&logo=confluence)
