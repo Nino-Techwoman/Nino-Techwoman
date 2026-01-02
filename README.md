@@ -35,4 +35,4 @@ I am a results-driven professional bridging the gap between design, code, and Ag
 
 ---
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/nino-bregvadze-92b149238/) | [Portfolio/Website]
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/nino-bregvadze-92b149238/) | (https://www.nini-codes.com)
