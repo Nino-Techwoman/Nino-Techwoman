@@ -1,8 +1,8 @@
 # Hi there! I'm Nino 👋 
 ### Technical Project Manager | UI/UX & AI Enthusiast
 
-I am a professional transitioning into the Tech world, focused on bridging the gap between business goals, user experience, and engineering excellence.
-Aspiring Technical Project Manager focused on bridging the gap between design, code, and business strategy.
+I am a professional transitioning into the Tech world, focused on bridging the gap between design, code, and business strategy.
+
 
 ---
 
