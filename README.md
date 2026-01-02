@@ -20,7 +20,7 @@ I am a results-driven professional bridging the gap between design, code, and Ag
 ![Confluence](https://img.shields.io/badge/Confluence-Documentation-0052CC?style=flat-square&logo=confluence)
 ![Miro](https://img.shields.io/badge/Miro-Whiteboarding-FFD02F?style=flat-square&logo=miro&logoColor=black)
 
-**Design & Development:**
+
 ![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma)
 ![HTML5](https://img.shields.io/badge/HTML5-Web%20Structure-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3)
