@@ -28,4 +28,4 @@ I am a professional transitioning into the Tech world, focused on bridging the g
 
 ---
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) | [Portfolio/Website]
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/nino-bregvadze-92b149238/) | [Portfolio/Website]
