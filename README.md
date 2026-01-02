@@ -1,24 +1,31 @@
 # Hi there! I'm Nino 👋 
 ### Technical Project Manager | UI/UX & AI Enthusiast
 
-I am a professional transitioning into the Tech world, focused on bridging the gap between design, code, and business strategy.
-
-
----
-
-### 🚀 What I'm working on in 2026:
-- 🎓 **IT Project Management:** Intensive certification at **AgileSchool.ge**.
-- 💻 **Web Development:** Mastering **HTML5, CSS3, and JavaScript** (Starting Jan 12).
-- 🎨 **Design-to-Code:** Leveraging **Figma & Builder.io** to build rapid, high-fidelity prototypes.
-- 🤖 **AI for Business:** Implementing AI workflows to optimize management processes.
+I am a results-driven professional bridging the gap between design, code, and Agile management. Currently mastering the full product lifecycle from wireframe to deployment.
 
 ---
 
-### 🛠 My Tech & Management Stack:
-![Agile](https://img.shields.io/badge/Methodology-Agile%20%26%20Scrum-blue) 
-![Figma](https://img.shields.io/badge/Design-Figma-orange) 
-![HTML5](https://img.shields.io/badge/Code-HTML5%20%26%20CSS3-red)
-![Git](https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black)
+### 🚀 Roadmap 2026:
+- 🎓 **IT Project Management:** Advanced certification at **AgileSchool.ge**.
+- 💻 **Web Development:** Mastering **HTML5, CSS3, and JavaScript** at **Reducate**.
+- 🎨 **Visual Engineering:** Design-to-Code automation with **Figma & Builder.io**.
+- 🤖 **AI Implementation:** Optimizing PM workflows and code generation.
+
+---
+
+### 🛠 My Professional Tech Stack:
+
+**Management & Strategy:**
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-blue?style=flat-square&logo=github)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-0052CC?style=flat-square&logo=confluence)
+![Miro](https://img.shields.io/badge/Miro-Whiteboarding-FFD02F?style=flat-square&logo=miro&logoColor=black)
+
+**Design & Development:**
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma)
+![HTML5](https://img.shields.io/badge/HTML5-Web%20Structure-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
